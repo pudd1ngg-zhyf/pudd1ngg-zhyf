@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://img.shields.io/badge/(˶>⩊<˶)-5200-red?style=flat-square" />
+<img src="https://img.shields.io/badge/(˶>⩊<˶)-14100-red?style=flat-square" />
 
 <br><br>
 
